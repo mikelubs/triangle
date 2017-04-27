@@ -10,15 +10,16 @@ body {
 
 .fa-caret-up {
   text-align: center;
-  font-size: 10em;
-  padding: 0px;;
-  margin: 0;
+  font-size: 5em;
+  padding: 3px;;
+  margin: 5px;
+  height: auto;
 }
 
 .header-lg {
-  background: rgb(0, 0, 128);
+  background: rgb(51, 51, 0);
   color: #fff;
-  margin: 0 0 0 0;
+  margin: 0;
   width: 100%;
 }
 
@@ -27,13 +28,17 @@ body {
   background: rgb(0, 0, 128);
 }
 
+.btn:hover {
+  color: yellow;
+}
+
 .header {
   padding: 10px;
   text-align: center;
 }
 
 .large {
-  background: rgb(204, 204, 255);
+  background: rgb(128, 128, 0);
   color: #fff;
   font-family: 'Capriola', sans-serif;
   font-weight: lighter;
@@ -46,12 +51,13 @@ body {
 h1 {
   text-align: center;
   font-family: 'Croissant One', cursive;
+  color: yellow;
 }
 
 .footer {
   padding: 30px;
   text-align: center;
-  background: rgb(0, 0, 26);
+  background: rgb(51, 51, 0);
   color: #fff;
 }
 
