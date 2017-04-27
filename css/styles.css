@@ -1,0 +1,60 @@
+/************************************************
+HEADER
+
+************************************************/
+body {
+    max-width: 100%;
+    min-height: 100%;
+    margin: 0;
+}
+
+.fa-caret-up {
+  text-align: center;
+  font-size: 15em;
+  padding: 0;
+  margin: 0;
+  height: 150px;
+}
+
+.header-lg {
+  background: rgb(0, 0, 128);
+  color: #fff;
+  margin: 0 0 0 0;
+  width: 100%;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+}
+
+.large {
+  background: rgb(138, 138, 92);
+  color: #fff;
+  font-family: 'Capriola', sans-serif;
+  font-weight: lighter;
+  font-size: 1.5em;
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Croissant One', cursive;
+}
+
+/************************************************
+BODY
+
+
+************************************************/
+.main-body {
+  background: rgb(230, 230, 230);
+  padding: 30px;
+
+}
+
+/************************************************
+FOOTER
+
+
+************************************************/
