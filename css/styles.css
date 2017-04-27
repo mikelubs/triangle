@@ -10,10 +10,9 @@ body {
 
 .fa-caret-up {
   text-align: center;
-  font-size: 15em;
-  padding: 0;
+  font-size: 10em;
+  padding: 0px;;
   margin: 0;
-  height: 150px;
 }
 
 .header-lg {
@@ -23,23 +22,37 @@ body {
   width: 100%;
 }
 
+.btn {
+  padding: 8px;
+  background: rgb(0, 0, 128);
+}
+
 .header {
   padding: 10px;
   text-align: center;
 }
 
 .large {
-  background: rgb(138, 138, 92);
+  background: rgb(204, 204, 255);
   color: #fff;
   font-family: 'Capriola', sans-serif;
   font-weight: lighter;
   font-size: 1.5em;
-  padding: 30px;
+  padding-top: 45px;
+  padding-bottom: 50px;
+  min-height: 350px;
 }
 
 h1 {
   text-align: center;
   font-family: 'Croissant One', cursive;
+}
+
+.footer {
+  padding: 30px;
+  text-align: center;
+  background: rgb(0, 0, 26);
+  color: #fff;
 }
 
 /************************************************
